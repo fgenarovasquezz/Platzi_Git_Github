@@ -1,5 +1,10 @@
-body {
-    color: white;
+body{
+    align-content: center;
+}
+#contenedor {
+    display: flex;
+    text-align : center;
+    border: 10px black;
+    border-radius: 12px;
     background-color: blue;
-    
 }
